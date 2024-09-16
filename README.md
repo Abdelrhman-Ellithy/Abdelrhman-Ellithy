@@ -10,18 +10,11 @@ Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engin
 **as I'm the Developer of  Testing.**
 **[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** 
 
-with expertise in 
-- **Test Automation.**
-
-- **Manual Testing.**
-
-- **API Testing**
-
-- **Performance Testing**.
+with expertise in **Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing**.
 
  With a strong foundation in **data structures**, **algorithms**, **Embedded Systems** and **web development**, I’ve contributed to building reliable and scalable test frameworks.
 
-I am **ISTQB certified** and enjoy working in **Agile environments** to deliver high-quality software solutions. I’m also an experienced instructor, delivering comprehensive courses on **ISTQB**, **Manual Testing**, and **Automation**.  
+I am **ISTQB certified** and enjoy working in **Agile environments** to deliver high-quality software solutions. I’m also an experienced instructor, delivering comprehensive courses on **ISTQB**, **Manual Testing**, **Automation** and **Database** as my **[_Udemy Course_](https://www.udemy.com/course/master-software-testing-istqb-manual-api-automation-ai/?referralCode=A8859E275D4CC5EFD6B1)**  
 💡 *Always striving for continuous improvement and exploring AI-powered tools and advanced testing techniques.*
 
 ### 🎓 Education
@@ -75,12 +68,6 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 
 #### **[_The Internet Heroku App (Automation)_](https://github.com/Abdelrhman-Ellithy/The-Internet-Herokuapp)**  
 - *Automated complex web elements using advanced locators in Selenium WebDriver.*
-
-#### **[_Contact List (API Testing)_](https://github.com/Abdelrhman-Ellithy/Contact-List)**  
-- *Automated 57+ API tests using Postman and Newman, ensuring comprehensive test coverage.*
-
-#### **[_Sauce Demo (Automation)_](https://github.com/Abdelrhman-Ellithy/Sauce-Demo-Automation-Testing-)**  
-- *Automated end-to-end test scripts using Selenium and TestNG, following the POM design pattern.*
 
 #### 📈 GitHub Stats
 ![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical)
