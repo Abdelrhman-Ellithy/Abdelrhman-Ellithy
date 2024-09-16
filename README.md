@@ -7,8 +7,7 @@
 ### 👨‍💻 About Me
 Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** 
 
-**as I'm the Developer of  Testing.**
-**[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** 
+**as I'm the Developer of **[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework.
 
 with expertise in **Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing**.
 
