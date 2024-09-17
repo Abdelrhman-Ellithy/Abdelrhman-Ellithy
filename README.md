@@ -38,8 +38,11 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
   - Participated in Agile processes like sprint planning, backlog refinement, and retrospectives.
   - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
 
+- **Instructor** at *Udemy* (Sep 2024 – Present)  
+  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**, **[_Udemy Course_](https://www.udemy.com/course/master-software-testing-istqb-manual-api-automation-ai/?referralCode=A8859E275D4CC5EFD6B1)** 
+  
 - **Instructor (Part-Time)** at *Software Institute* (Mar 2024 – Present)  
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, and **Test Automation**.
+  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
   - Developed curriculum that integrates real-world scenarios to enhance students' testing skills.
 
 - **Generative AI Trainee** at *ALX Africa* (Jul – Aug 2024)  
