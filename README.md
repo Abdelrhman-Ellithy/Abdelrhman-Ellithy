@@ -1,5 +1,3 @@
-
-
 ## Welcome to Abdelrahman Ellithy's GitHub Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy&style=flat-square&color=blue)
@@ -33,7 +31,7 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 - **Other Skills:** Data Structures, Algorithms, Problem-Solving, Embedded Systems, Agile, BDD
 
 ### 💼 Professional Experience
-- **Software Test Engineer Intern** at *Cegedim Egypt* (Aug 2024 – Present)  
+- **Software Test Engineer Intern** at **_Cegedim Egypt_** (Aug 2024 – Present)  
   - Developed and enhanced the **_Ellithium_** Test Automation Framework.
   - Participated in Agile processes like sprint planning, backlog refinement, and retrospectives.
   - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
@@ -81,10 +79,10 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 - **Data Analysis** - Egypt FWD  
 - **Web Development** - Egypt FWD  
 - **Embedded Systems Programming** - NTI
+- **All Certificates** **[_here_](https://drive.google.com/drive/folders/1WDPOxoBiC727yxxh8mWnnPE990W_PXed?usp=drive_link)**
 
 ### 📫 How to reach me:
 - **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/abdelrahman-ellithy-3841a7270/)  
-- **GitHub:** [Abdelrahman-Ellithy](https://github.com/Abdelrhman-Ellithy)  
 - **Email:** abdelarhmanellithy@gmail.com  
 
 ---
