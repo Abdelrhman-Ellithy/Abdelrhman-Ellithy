@@ -69,9 +69,6 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 #### **[_The Internet Heroku App (Automation)_](https://github.com/Abdelrhman-Ellithy/The-Internet-Herokuapp)**  
 - *Automated complex web elements using advanced locators in Selenium WebDriver.*
 
-#### 📈 GitHub Stats
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical&cache_seconds=8640)
-
 ### 🏆 Certifications
 - **ISTQB Foundation Level CTFL**  
 - **Problem-Solving (Basic)** - HackerRank  
