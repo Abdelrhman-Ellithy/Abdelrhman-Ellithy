@@ -1,6 +1,6 @@
 ## Welcome to Abdelrahman Ellithy's GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy-Ellithium&style=flat-square&color=blue)
 
 ### 👨‍💻 About Me
 Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** 
@@ -70,7 +70,7 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 - *Automated complex web elements using advanced locators in Selenium WebDriver.*
 
 #### 📈 GitHub Stats
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical)
+![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical&cache_seconds=86400)
 
 ### 🏆 Certifications
 - **ISTQB Foundation Level CTFL**  
