@@ -70,7 +70,7 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 - *Automated complex web elements using advanced locators in Selenium WebDriver.*
 
 #### 📈 GitHub Stats
-![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical&cache_seconds=86400)
+![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrhman-Ellithy&show_icons=true&theme=radical)
 
 ### 🏆 Certifications
 - **ISTQB Foundation Level CTFL**  
