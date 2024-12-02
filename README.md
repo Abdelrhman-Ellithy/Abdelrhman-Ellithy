@@ -7,13 +7,13 @@ Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engin
 
 **as I'm the Creator of** [_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium) **Test Automation Framework**.
 
-**Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
+- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
 
-**Ex Test Automation Engineer** at **Appy Innovate KSA**
+- **Ex Test Automation Engineer** at **Appy Innovate KSA**
 
-**Ex Software Test Engineer** at **_Cegedim Egypt_**
+- **Ex Software Test Engineer** at **_Cegedim Egypt_**
 
-with expertise in **Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing**.
+with expertise in **Web, Mobile Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing** and **Database Testing**.
 
  With a strong foundation in **data structures**, **algorithms**, **Embedded Systems** and **web development**, I’ve contributed to building reliable and scalable test frameworks.
 
