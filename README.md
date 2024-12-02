@@ -5,9 +5,11 @@
 ### 👨‍💻 About Me
 Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** 
 
-**as I'm the Developer of** [_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium) **Test Automation Framework**.
+**as I'm the Creator of** [_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium) **Test Automation Framework**.
 
-**Test Automation Engineer** at **Appy Innovate KSA**
+**Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
+
+**Ex Test Automation Engineer** at **Appy Innovate KSA**
 
 **Ex Software Test Engineer** at **_Cegedim Egypt_**
 
@@ -15,7 +17,7 @@ with expertise in **Test Automation**, **Manual Testing.**, **API Testing**, **P
 
  With a strong foundation in **data structures**, **algorithms**, **Embedded Systems** and **web development**, I’ve contributed to building reliable and scalable test frameworks.
 
-I am **ISTQB certified** and enjoy working in **Agile environments** to deliver high-quality software solutions. I’m also an experienced instructor, delivering comprehensive courses on **ISTQB**, **Manual Testing**, **Automation** and **Database** as my **[_Udemy Course_](https://www.udemy.com/course/master-software-testing-istqb-manual-api-automation-ai/?referralCode=A8859E275D4CC5EFD6B1)**  
+I am **ISTQB certified** and enjoy working in **Agile environments** to deliver high-quality software solutions. I’m also an experienced instructor, delivering comprehensive courses on **ISTQB**, **Manual Testing**, **Automation**, **Jenkins** and **Database**
 💡 *Always striving for continuous improvement and exploring AI-powered tools and advanced testing techniques.*
 
 ### 🎓 Education
@@ -35,14 +37,18 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 - **Other Skills:** Data Structures, Algorithms, Problem-Solving, Embedded Systems, Agile, BDD
 
 ### 💼 Professional Experience
-- **Test Automation Engineer** at **Appy Innovate KSA** (October 2024– Present) 
+- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group** (December 2024– Present) 
+- **Test Automation Engineer** at **Appy Innovate KSA** (October - November 2024) 
+  -  Testing **El Wasta ERP** system, Developing Test Automation Scripts and perform Exploratory Testing for **E-Invoice** mobile app. 
+  - Integrated (**Appium**) Mobile Test Automation Tool with Ellithium, in addition to **SQL and NoSQL DB** providers, offering it as a **Unified Test Automation** 
+tool for the team. 
 - **Software Test Engineer Intern** at **_Cegedim Egypt_** (Aug – september 2024)  
   - Developed and enhanced the **_Ellithium_** Test Automation Framework.
   - Participated in Agile processes like sprint planning, backlog refinement, and retrospectives.
   - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
 
 - **Instructor** at *Udemy* (Sep 2024 – Present)  
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**, **[_Udemy Course_](https://www.udemy.com/course/master-software-testing-istqb-manual-api-automation-ai/?referralCode=A8859E275D4CC5EFD6B1)** 
+  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation** 
   
 - **Instructor (Part-Time)** at *Software Institute* (Mar 2024 – Present)  
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
