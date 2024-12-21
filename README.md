@@ -3,14 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy-Ellithium&style=flat-square&color=blue)
 
 ### 👨‍💻 About Me
-Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** 
+Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** (**SDET**) 
 
 **as I'm the Creator of** [_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium) **Test Automation Framework**.
 
-- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
-
+- **Mid-Senior Test Automation Engineer** at **Bevatel** and **MICIT Group**
 - **Ex Test Automation Engineer** at **Appy Innovate KSA**
-
 - **Ex Software Test Engineer** at **_Cegedim Egypt_**
 
 with expertise in **Web, Mobile Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing** and **Database Testing**.
@@ -28,39 +26,43 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 ### 🛠️ Skills & Technologies
 - **Software Testing:**
   - Test Automation, Manual Testing, API Testing, Database Testing, Performance Testing
-  - **Tools:** Selenium WebDriver, TestNG, JUnit, Rest Assured, Postman, Newman, JMeter
-  - **Test Automation Frameworks:** Developed **_Ellithium_**—a robust, cross-browser, parallel execution framework with **BDD** and **Allure reporting**
+  - **Tools:** Selenium WebDriver, Appium, TestNG, JUnit, Rest Assured, Postman, Newman, JMeter
+  - **Test Automation Frameworks:** Developed **_Ellithium_**—a **Unified Test Automation Framework** for **Web, Mobile, API, and DB**.
 - **Programming Languages:** Java, Python, SQL, C, C++
+- **Embedded Sysems:** MCAL and HAL Layers **device Drivers developement** fo **Arm Cortex M3** , **AVR** and **RTOS**.
 - **Web Development:** HTML, CSS, JavaScript
 - **DevOps & CI/CD:** Jenkins, Docker, Git, GitHub Actions
 - **Database Technologies:** MySQL, SQLite
 - **Other Skills:** Data Structures, Algorithms, Problem-Solving, Embedded Systems, Agile, BDD
 
 ### 💼 Professional Experience
-- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group** (December 2024– Present) 
-- **Test Automation Engineer** at **Appy Innovate KSA** (October - November 2024) 
-  -  Testing **El Wasta ERP** system, Developing Test Automation Scripts and perform Exploratory Testing for **E-Invoice** mobile app. 
+- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
+  - Mainly Working on both **“business Chat”**, **“VOIP”** projects and **CRM Domain**. 
+  - Utilized Ellithium (my custom-built Unified Test Automation Framework) to develop Test Scripts for Web, API Tests. 
+  - Participate in retrospectives, Sprint Planning, backlog refinement meetings.  
+- **Test Automation Engineer** at **Appy Innovate KSA** 
+  - Testing **El Wasta ERP** system, Developing Test Automation Scripts and perform Exploratory Testing for **E-Invoice** mobile app. 
   - Integrated (**Appium**) Mobile Test Automation Tool with Ellithium, in addition to **SQL and NoSQL DB** providers, offering it as a **Unified Test Automation** 
 tool for the team. 
-- **Software Test Engineer Intern** at **_Cegedim Egypt_** (Aug – september 2024)  
+- **Software Test Engineer Intern** at **_Cegedim Egypt_** 
   - Developed and enhanced the **_Ellithium_** Test Automation Framework.
   - Participated in Agile processes like sprint planning, backlog refinement, and retrospectives.
   - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
 
-- **Instructor** at *Udemy* (Sep 2024 – Present)  
+- **Instructor** at *Udemy*  
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation** 
   
-- **Instructor (Part-Time)** at *Software Institute* (Mar 2024 – Present)  
+- **Instructor (Part-Time)** at *Software Institute*   
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
   - Developed curriculum that integrates real-world scenarios to enhance students' testing skills.
 
-- **Generative AI Trainee** at *ALX Africa* (Jul – Aug 2024)  
+- **Generative AI Trainee** at *ALX Africa*  
   - Explored AI tools for automation and prompt engineering to build web automation and workflows.
 
-- **Embedded Systems Intern** at *NeuronetiX* (Mar 2024 – Apr 2024)  
+- **Embedded Systems Intern** at *NeuronetiX*   
   - Worked on projects like **Smart Home**, **PWM Drawer**, and **Voltmeter**, earning the **Top Intern Award**.
 
-- **IoT Trainee** at *Information Technology Institute (ITI)* (Jul 2024)  
+- **IoT Trainee** at *Information Technology Institute (ITI)*  
   - Gained hands-on experience with IoT development using **HTML**, **CSS**, and **JavaScript**.
 
 ### 🔥 Key Projects
@@ -87,10 +89,8 @@ tool for the team.
 - **Data Analysis** - Egypt FWD  
 - **Web Development** - Egypt FWD  
 - **Embedded Systems Programming** - NTI
-- **All Certificates** **[_here_](https://drive.google.com/drive/folders/1WDPOxoBiC727yxxh8mWnnPE990W_PXed?usp=drive_link)**
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/abdelrahman-ellithy-3841a7270/)  
+- **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/AbdelrahmanEllithy/)  
 - **Email:** abdelarhmanellithy@gmail.com  
-
 ---
