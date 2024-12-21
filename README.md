@@ -20,8 +20,7 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 
 ### 🎓 Education
 - **Bachelor of Computer Science**  
-  *Benha University, Faculty of Computers and Artificial Intelligence*  
-  *Ranked #1 in the last year  
+  *Benha University, Faculty of Computers and Artificial Intelligence* *Ranked 1 in the last year*  
 
 ### 🛠️ Skills & Technologies
 - **Software Testing:**
