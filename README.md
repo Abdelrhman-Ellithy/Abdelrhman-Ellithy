@@ -49,7 +49,8 @@ tool for the team.
   - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
 
 - **Instructor** at *Udemy*  
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation** 
+  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
+  - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
   
 - **Instructor (Part-Time)** at *Software Institute*   
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
