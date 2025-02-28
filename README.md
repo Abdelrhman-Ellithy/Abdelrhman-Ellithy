@@ -74,24 +74,7 @@
 - **Instructor (Part-Time)** at *Software Institute*   
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
   - Developed curriculum that integrates real-world scenarios to enhance students' testing skills.
-
-- **Generative AI Trainee** at *ALX Africa*  
-  - Explored AI tools for automation and prompt engineering to build web automation and workflows.
-
-- **Embedded Systems Intern** at *NeuronetiX*   
-  - Worked on projects like **Smart Home**, **PWM Drawer**, and **Voltmeter**, earning the **Top Intern Award**.
-
-- **IoT Trainee** at *Information Technology Institute (ITI)*  
-  - Gained hands-on experience with IoT development using **HTML**, **CSS**, and **JavaScript**.
-
-### 🏆 Certifications
-- **ISTQB Foundation Level CTFL**  
-- **Problem-Solving (Basic)** - HackerRank  
-- **Java Test Automation Path** - Test Automation University  
-- **Data Analysis** - Egypt FWD  
-- **Web Development** - Egypt FWD  
-- **Embedded Systems Programming** - NTI
-
+  
 ### 📫 How to reach me:
 - **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/AbdelrahmanEllithy/)  
 - **Email:** abdelarhmanellithy@gmail.com  
