@@ -3,36 +3,51 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy-Ellithium&style=flat-square&color=blue)
 
 ### 👨‍💻 About Me
-Hi, I'm **Abdelrahman Magdy Ellithy**, a passionate **Software Development Engineer in Test** (**SDET**) 
-
-**as I'm the Creator of** [_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium) **Test Automation Framework**.
-
-- **Mid-Senior Test Automation Engineer** at **Bevatel** and **MICIT Group**
-- **Ex Test Automation Engineer** at **Appy Innovate KSA**
-- **Ex Software Test Engineer** at **_Cegedim Egypt_**
-
-with expertise in **Web, Mobile Test Automation**, **Manual Testing.**, **API Testing**, **Performance Testing** and **Database Testing**.
-
- With a strong foundation in **data structures**, **algorithms**, **Embedded Systems** and **web development**, I’ve contributed to building reliable and scalable test frameworks.
-
-I am **ISTQB certified** and enjoy working in **Agile environments** to deliver high-quality software solutions. I’m also an experienced instructor, delivering comprehensive courses on **ISTQB**, **Manual Testing**, **Automation**, **Jenkins** and **Database**
-💡 *Always striving for continuous improvement and exploring AI-powered tools and advanced testing techniques.*
+- **ISTQB Certified Software Development Engineer in Test** (SDET), specializing in **Web, Mobile, API Test Automation** and manual testing.
+- Creator of **[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework, available on Maven Central.
+- Contributor to SHAFT_ENGINE and Selenium Committer.
+- Mid-Senior Test Automation Engineer at **Bevatel, MICIT** Group and former at other leading firms including **Appy Innovate KSA**, and **Cegedim Egypt**.
+- **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 
 ### 🎓 Education
 - **Bachelor of Computer Science**  
   *Benha University, Faculty of Computers and Artificial Intelligence* *Ranked 1 in the last year*  
 
 ### 🛠️ Skills & Technologies
-- **Software Testing:**
-  - Test Automation, Manual Testing, API Testing, Database Testing, Performance Testing
-  - **Tools:** Selenium WebDriver, Appium, TestNG, JUnit, Rest Assured, Postman, Newman, JMeter
-  - **Test Automation Frameworks:** Developed **_Ellithium_**—a **Unified Test Automation Framework** for **Web, Mobile, API, and DB**.
-- **Programming Languages:** Java, Python, SQL, C, C++
-- **Embedded Sysems:** MCAL and HAL Layers **device Drivers developement** fo **Arm Cortex M3** , **AVR** and **RTOS**.
-- **Web Development:** HTML, CSS, JavaScript
-- **DevOps & CI/CD:** Jenkins, Docker, Git, GitHub Actions
-- **Database Technologies:** MySQL, SQLite
-- **Other Skills:** Data Structures, Algorithms, Problem-Solving, Embedded Systems, Agile, BDD
+
+#### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Testing & QA
+![Test Automation](https://img.shields.io/badge/Test_Automation-blue?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF9900?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-blueviolet?style=for-the-badge)
+![Database Testing](https://img.shields.io/badge/Database_Testing-brightgreen?style=for-the-badge)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-red?style=for-the-badge)
+
+#### Embedded Systems
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Tools & Testing Frameworks
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=testing-library&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-4479A1?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 💼 Professional Experience
 - **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
