@@ -53,7 +53,8 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
   - Participate in retrospectives, Sprint Planning, backlog refinement meetings, write BDD Scenarios. 
 
 - **Instructor** at *Udemy*  
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation** 
+  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
+  - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
   
 - **Instructor (Part-Time)** at *Software Institute*   
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
