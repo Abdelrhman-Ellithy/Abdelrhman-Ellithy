@@ -36,17 +36,21 @@ I am **ISTQB certified** and enjoy working in **Agile environments** to deliver 
 
 ### 💼 Professional Experience
 - **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
-  - Mainly Working on both **“business Chat”**, **“VOIP”** projects and **CRM Domain**. 
-  - Utilized Ellithium (my custom-built Unified Test Automation Framework) to develop Test Scripts for Web, API Tests. 
-  - Participate in retrospectives, Sprint Planning, backlog refinement meetings.  
+  - Refactored Bevatel System APIs and created Tests for 100% of API services which resulted in significant improvement in backend quality. 
+  - Design Test Scenarios, Perform Regression and Smoke Testing both Automated and Manually at Many (UI, API) levels.  
+  - Create CI-CD Workflow for E2E Scenarios on API level and Test Complex Scenarios on Safari Browser using GitHub Actions Hosted Runners. 
+  - Worked Mainly in “VOIP” Domain Projects and Provide Support to Operation Teams in Bahrain.  
+  - Responsible for Testing Integration Between Applications and both FreePBX and Asterisk. 
 - **Test Automation Engineer** at **Appy Innovate KSA** 
   - Testing **El Wasta ERP** system, Developing Test Automation Scripts and perform Exploratory Testing for **E-Invoice** mobile app. 
-  - Integrated (**Appium**) Mobile Test Automation Tool with Ellithium, in addition to **SQL and NoSQL DB** providers, offering it as a **Unified Test Automation** 
-tool for the team. 
+  - Integrated (**Appium**) Mobile Test Automation Tool with Ellithium, in addition to **SQL and NoSQL DB** providers, offering it as a **Unified Test Automation** tool for the team. 
+  - Identified +100 Issues with 50% critical rate related to Security and Architecture in the first 2 week. 
 - **Software Test Engineer Intern** at **_Cegedim Egypt_** 
-  - Developed and enhanced the **_Ellithium_** Test Automation Framework.
-  - Participated in Agile processes like sprint planning, backlog refinement, and retrospectives.
-  - Developed automated test scripts for **UI**, **API**, and **database testing**, ensuring GDPR compliance.
+  - Developed Test Automation Framework (Ellithium) for UI, API Testing that Supports BDD Scenarios, Parallel Execution, Headless Testing. 
+  - wrote Test Scripts for UI and API Test Automation, Database Testing, ensure Data Masking and GDPR compliance. 
+  - Test Functional and Nonfunctional requirements in multiple Test levels, Validate Software Quality and Mitigate risks.  
+  - Got Special opportunity to work with Smart RX team in Egypt and France in the last month. 
+  - Participate in retrospectives, Sprint Planning, backlog refinement meetings, write BDD Scenarios. 
 
 - **Instructor** at *Udemy*  
   - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation** 
@@ -63,23 +67,6 @@ tool for the team.
 
 - **IoT Trainee** at *Information Technology Institute (ITI)*  
   - Gained hands-on experience with IoT development using **HTML**, **CSS**, and **JavaScript**.
-
-### 🔥 Key Projects
-
-#### **[_Ellithium - Enhanced Test Automation Framework_](https://github.com/Abdelrhman-Ellithy/Ellithium)**  
-- *Cross-browser testing, parallel execution, BDD support, data-driven testing, and rich reporting with Allure.*
-
-#### **[_Chameleon (UI and API Automation)_](https://gitlab.com/internship202408/chameleon/-/tree/Development/AdminPortal/TestAdminPortal?ref_type=heads)**  
-- *BDD-based UI and API automation framework, integrated with the CI/CD pipeline.*
-
-#### **[_Movies Land (UI and API Automation, Performance Testing)_](https://github.com/Abdelrhman-Ellithy/Movies-Land)**  
-- *Automated 13 API requests and performed load testing on both API and UI using JMeter.*
-
-#### **[_Noon Shopping Website (Manual & Automation)_](https://github.com/Abdelrhman-Ellithy/Noon-Shopping-Website-Manual-Automation-)**  
-- *Executed 68 manual test cases and automated 16 scenarios for the search functionality using _Ellithium_.*
-
-#### **[_The Internet Heroku App (Automation)_](https://github.com/Abdelrhman-Ellithy/The-Internet-Herokuapp)**  
-- *Automated complex web elements using advanced locators in Selenium WebDriver.*
 
 ### 🏆 Certifications
 - **ISTQB Foundation Level CTFL**  
