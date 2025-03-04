@@ -30,20 +30,6 @@
 ![Database Testing](https://img.shields.io/badge/Database_Testing-brightgreen?style=for-the-badge)
 ![Performance Testing](https://img.shields.io/badge/Performance_Testing-red?style=for-the-badge)
 
-#### Embedded Systems
-![Arm Cortex](https://img.shields.io/badge/Arm_Cortex-0096FF?style=for-the-badge&logo=arm&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=arduino&logoColor=white)
-![RTOS](https://img.shields.io/badge/RTOS-007ACC?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0A74DA?style=for-the-badge)
-
-#### DevOps & CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
 #### Tools & Testing Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
@@ -56,6 +42,21 @@
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF6600?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-0055FF?style=for-the-badge&logo=playwright&logoColor=white)
+
+#### DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+#### Embedded Systems
+![Arm Cortex](https://img.shields.io/badge/Arm_Cortex-0096FF?style=for-the-badge&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-007ACC?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0A74DA?style=for-the-badge)
 
 #### Machine Learning, AI, Deep Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
