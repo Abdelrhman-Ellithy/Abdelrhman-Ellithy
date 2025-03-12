@@ -68,31 +68,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 💼 Professional Experience
-- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
-  - Refactored Bevatel System APIs and created Tests for 100% of API services which resulted in significant improvement in backend quality. 
-  - Design Test Scenarios, Perform Regression and Smoke Testing both Automated and Manually at Many (UI, API) levels.  
-  - Create CI-CD Workflow for E2E Scenarios on API level and Test Complex Scenarios on Safari Browser using GitHub Actions Hosted Runners. 
-  - Worked Mainly in “VOIP” Domain Projects and Provide Support to Operation Teams in Bahrain.  
-  - Responsible for Testing Integration Between Applications and both FreePBX and Asterisk. 
+- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group** 
 - **Test Automation Engineer** at **Appy Innovate KSA** 
-  - Testing **El Wasta ERP** system, Developing Test Automation Scripts and perform Exploratory Testing for **E-Invoice** mobile app. 
-  - Integrated (**Appium**) Mobile Test Automation Tool with Ellithium, in addition to **SQL and NoSQL DB** providers, offering it as a **Unified Test Automation** tool for the team. 
-  - Identified +100 Issues with 50% critical rate related to Security and Architecture in the first 2 week. 
 - **Software Test Engineer Intern** at **_Cegedim Egypt_** 
-  - Developed Test Automation Framework (Ellithium) for UI, API Testing that Supports BDD Scenarios, Parallel Execution, Headless Testing. 
-  - wrote Test Scripts for UI and API Test Automation, Database Testing, ensure Data Masking and GDPR compliance. 
-  - Test Functional and Nonfunctional requirements in multiple Test levels, Validate Software Quality and Mitigate risks.  
-  - Got Special opportunity to work with Smart RX team in Egypt and France in the last month. 
-  - Participate in retrospectives, Sprint Planning, backlog refinement meetings, write BDD Scenarios. 
-
 - **Instructor** at *Udemy*  
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
+  - Delivered 4 courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
   - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
   
 - **Instructor (Part-Time)** at *Software Institute*   
-  - Delivered courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**.
-  - Developed curriculum that integrates real-world scenarios to enhance students' testing skills.
-  
 ### 📫 How to reach me:
 - **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/AbdelrahmanEllithy/)  
 - **Email:** abdelarhmanellithy@gmail.com  
