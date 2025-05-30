@@ -6,7 +6,7 @@
 - **ISTQB Certified Software Development Engineer in Test** (SDET), specializing in **Web, Mobile, API Test Automation** and manual testing.
 - Creator of **[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework, available on Maven Central.
 - Contributor to SHAFT_ENGINE and Selenium Committer.
-- Mid-Senior Test Automation Engineer at **Bevatel, MICIT** Group and former at other leading firms including **Appy Innovate KSA**, and **Cegedim Egypt**.
+- **Mid-Senior SDET** at **Sure Global Technology** and former at other leading firms including **Bevatel, MICIT Group**, **Appy Innovate KSA**, and **Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 
 ### 🎓 Education
@@ -20,7 +20,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Testing & QA
@@ -35,6 +38,7 @@
 ![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=testing-library&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-4479A1?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge)
@@ -42,15 +46,20 @@
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-FF6600?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-0055FF?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 #### DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
 
 #### Embedded Systems
 ![Arm Cortex](https://img.shields.io/badge/Arm_Cortex-0096FF?style=for-the-badge&logo=arm&logoColor=white)
@@ -67,7 +76,19 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### 🏆 Certifications
+- **ISTQB Foundation Level CTFL** (240429300)
+- **ECPC Contestant 69th | ICPC**
+- **AWS Academy Cloud Architecting Certified**
+- **CompTIA-NASBA-DevOps Foundations**
+- **Java Test Automation Path | TAU**
+- **Java Developer | HackerRank**
+- **Software Engineer | HackerRank**
+- **PMI: Emotional Intelligence**
+- **Problem-Solving (Basic) | HackerRank**
+
 ### 💼 Professional Experience
+- **Mid-Senior SDET** at **Sure Global Technology**
 - **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group** 
 - **Test Automation Engineer** at **Appy Innovate KSA** 
 - **Software Test Engineer Intern** at **_Cegedim Egypt_** 
