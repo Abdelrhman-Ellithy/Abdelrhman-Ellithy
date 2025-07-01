@@ -2,20 +2,29 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrhman-Ellithy-Ellithium&style=flat-square&color=blue)
 
+---
+
 ### 👨‍💻 About Me
-- **ISTQB Certified Software Development Engineer in Test** (SDET), specializing in **Web, Mobile, API Test Automation** and manual testing.
-- Creator of **[_Ellithium_](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework, available on Maven Central.
-- Contributor to SHAFT_ENGINE and Selenium Committer.
-- **Mid-Senior SDET** at **Sure Global Technology** and former at other leading firms including **Bevatel, MICIT Group**, **Appy Innovate KSA**, and **Cegedim Egypt**.
+
+- **ISTQB Certified Software Development Engineer in Test (SDET)** specializing in **Web, Mobile, API Test Automation**, manual testing, and RPA.
+- **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
+- **Contributor:** SHAFT_ENGINE, Selenium Committer.
+- **Mid-Senior SDET** at **Sure Global Technology** and **Bevatel, previously at Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
+- **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
+- **AWS Academy Cloud Architecting Graduate** ([Badge](https://www.credly.com/badges/df787d09-9718-479a-ac35-b2e322f697e5/print)), skilled in designing and deploying scalable, secure, and reliable cloud solutions on AWS.
+---
 
 ### 🎓 Education
 - **Bachelor of Computer Science**  
-  *Benha University, Faculty of Computers and Artificial Intelligence* *Ranked 1 in the last year*  
+  *Benha University, Faculty of Computers and Artificial Intelligence*  
+  *Graduated as 5th of my Class*  
+
+---
 
 ### 🛠️ Skills & Technologies
 
-#### Programming Languages 
+#### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,12 +35,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Testing & QA
+#### Testing, QA & Automation
 ![Test Automation](https://img.shields.io/badge/Test_Automation-blue?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF9900?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing-blueviolet?style=for-the-badge)
 ![Database Testing](https://img.shields.io/badge/Database_Testing-brightgreen?style=for-the-badge)
 ![Performance Testing](https://img.shields.io/badge/Performance_Testing-red?style=for-the-badge)
+![RPA (UiPath)](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
 
 #### Tools & Testing Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -61,6 +71,10 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
+#### Low-Code & RPA Platforms
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
+![OutSystems](https://img.shields.io/badge/OutSystems-FF0000?style=for-the-badge&logo=outsystems&logoColor=white)
+
 #### Embedded Systems
 ![Arm Cortex](https://img.shields.io/badge/Arm_Cortex-0096FF?style=for-the-badge&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=arduino&logoColor=white)
@@ -76,6 +90,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
+
 ### 🏆 Certifications
 - **ISTQB Foundation Level CTFL** (240429300)
 - **ECPC Contestant 69th | ICPC**
@@ -87,16 +103,24 @@
 - **PMI: Emotional Intelligence**
 - **Problem-Solving (Basic) | HackerRank**
 
+### 🥇 Badges & Special Achievements
+- **AI Publisher Badge** from [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
+- **AWS Academy Cloud Architecting Graduate** with official badge, demonstrating proficiency in designing and deploying scalable, reliable cloud solutions on AWS [Badge](https://www.credly.com/badges/df787d09-9718-479a-ac35-b2e322f697e5/).
+
+---
+
 ### 💼 Professional Experience
 - **Mid-Senior SDET** at **Sure Global Technology**
-- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group** 
+- **Mid-Senior Test Automation Engineer** at **Bevatel** 
 - **Test Automation Engineer** at **Appy Innovate KSA** 
 - **Software Test Engineer Intern** at **_Cegedim Egypt_** 
 - **Instructor** at *Udemy*  
   - Delivered 4 courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
   - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
-  
-- **Instructor (Part-Time)** at *Software Institute*   
+- **Instructor (Part-Time)** at *Software Institute*
+
+---
+
 ### 📫 How to reach me:
 - **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/AbdelrahmanEllithy/)  
 - **Email:** abdelarhmanellithy@gmail.com  
