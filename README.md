@@ -9,7 +9,7 @@
 - **ISTQB Certified Software Development Engineer in Test (SDET)** specializing in **Web, Mobile, API Test Automation**, manual testing, and RPA.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
-- **Mid-Senior SDET** at **Sure Global Technology** and **Bevatel, previously at Appy Innovate KSA, Cegedim Egypt**.
+- **Mid-Senior SDET** at **Sure Global Technology** and partially at **Bevatel, previously at Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 - **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
 - **AWS Academy Cloud Architecting Graduate** ([Badge](https://www.credly.com/badges/df787d09-9718-479a-ac35-b2e322f697e5/print)), skilled in designing and deploying scalable, secure, and reliable cloud solutions on AWS.
