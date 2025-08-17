@@ -11,6 +11,7 @@
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
 - **Mid-Senior SDET** at **Sure Global Technology** and partially at **Bevatel, previously at Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
+- **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"**
 - **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
 - **AWS Academy Cloud Architecting Graduate** ([Badge](https://www.credly.com/badges/df787d09-9718-479a-ac35-b2e322f697e5/print)), skilled in designing and deploying scalable, secure, and reliable cloud solutions on AWS.
 ---
@@ -80,6 +81,11 @@
 ![AVR](https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-007ACC?style=for-the-badge)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0A74DA?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E73525?style=for-the-badge&logo=espressif&logoColor=white)
+
+#### Industrial Automation & IoT
+![SAP Integration](https://img.shields.io/badge/SAP_Integration-003366?style=for-the-badge&logo=sap&logoColor=white)
+![Serial Communication](https://img.shields.io/badge/Serial_Communication-E73525?style=for-the-badge&logo=serial&logoColor=black)
 
 #### Machine Learning, AI, Deep Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -89,6 +95,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-E73525?style=for-the-badge&logo=yolo&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Desktop & GUI Development
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -111,13 +124,14 @@
 
 ### 💼 Professional Experience
 - **Mid-Senior SDET** at **Sure Global Technology**
-- **Mid-Senior Test Automation Engineer** at **Bevatel** 
-- **Test Automation Engineer** at **Appy Innovate KSA** 
-- **Software Test Engineer Intern** at **_Cegedim Egypt_** 
+- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
+- **Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
 - **Instructor** at *Udemy*  
   - Delivered 4 courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
   - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
-- **Instructor (Part-Time)** at *Software Institute*
+- **Former Test Automation Engineer** at **Appy Innovate KSA**
+- **Former Software Test Engineer Intern** at **Cegedim Egypt**
+- **Former Instructor (Part-Time)** at *Software Institute*
 
 ---
 
