@@ -106,7 +106,8 @@
 ---
 
 ### 🏆 Certifications
-- **ISTQB Foundation Level CTFL** (240429300)
+- **ISTQB Certified Tester - Mobile Application Testing CT-MAT** (251007008)
+- **ISTQB Certified Tester - Foundation Level CTFL** (240429300)
 - **ECPC Contestant 69th | ICPC**
 - **AWS Academy Cloud Architecting Certified**
 - **CompTIA-NASBA-DevOps Foundations**
