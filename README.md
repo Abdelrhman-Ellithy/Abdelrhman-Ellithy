@@ -126,8 +126,8 @@
 ### 💼 Professional Experience
 - **Mid-Senior SDET acting as Senior** at **Sure Global Technology**
 - **Senior Test Automation Engineer** at **Exacall**
-- **Senior Test Automation Engineer** at **Bevatel and MICIT Group**
-- **Mid-Senior Test Automation Engineer** at **Bevatel and MICIT Group**
+- **Senior Test Automation Engineer** at **Bevatel**
+- **Mid-Senior Test Automation Engineer** at **Bevatel**
 - **Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
 - **Instructor** at *Udemy*  
   - Delivered 4 courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
