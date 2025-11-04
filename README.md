@@ -17,10 +17,12 @@
 ---
 
 ### 🎓 Education
-- **Bachelor of Computer Science**  
+- **studying 𝐌𝐚𝐬𝐭𝐞𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞**  
+  *Benha University, Faculty of Computers and Artificial Intelligence*   
+  
+- **Bachelor of Computer Science and artificial intelligence**  
   *Benha University, Faculty of Computers and Artificial Intelligence*  
   *Graduated as 5th of my Class*  
-
 ---
 
 ### 🛠️ Skills & Technologies
