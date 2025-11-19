@@ -9,7 +9,7 @@
 - **ISTQB Certified Software Development Engineer in Test (SDET)** specializing in **Web, Mobile, API Test Automation**, manual testing, and RPA.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
-- **Senior SDET** at **Sure Global Technology** and partially at **Bevatel, previously at Appy Innovate KSA, Cegedim Egypt**.
+- **Senior SDET** at **Sure Global Technology** and partially at **Bevatel, previously at Exacall, Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 - **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"**
 - **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
@@ -127,8 +127,8 @@
 
 ### 💼 Professional Experience
 - **Mid-Senior SDET acting as Senior** at **Sure Global Technology**
-- **Senior Test Automation Engineer** at **Exacall**
 - **Senior Test Automation Engineer** at **Bevatel**
+- **Former Senior Test Automation Engineer** at **Exacall**
 - **Former Mid-Senior Test Automation Engineer** at **Bevatel**
 - **Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
 - **Instructor** at *Udemy*  
