@@ -22,7 +22,7 @@
   
 - **Bachelor of Computer Science and artificial intelligence**  
   *Benha University, Faculty of Computers and Artificial Intelligence*  
-  *Graduated as 5th of my Class* and ranked as **first in the 3rd year** 
+  *Graduated as 5th of my Class* and ranked **first in my 3rd year** 
 ---
 
 ### 🛠️ Skills & Technologies
