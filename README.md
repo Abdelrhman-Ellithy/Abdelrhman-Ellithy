@@ -79,7 +79,5 @@
 
 ---
 ### 📫 How to reach me:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-- **LinkedIn:**<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abdelrahmanellithy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abdelrahmanellithy trk=profile-badge">Abdelrahman Ellithy</a></div>
-               
+- **LinkedIn:** [Abdelrahman Ellithy](https://www.linkedin.com/in/AbdelrahmanEllithy/)             
 ---
