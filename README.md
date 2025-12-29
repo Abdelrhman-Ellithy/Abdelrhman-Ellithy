@@ -47,6 +47,7 @@
 ---
 
 ### 🏆 Certifications
+- **ISTQB Certified Tester Advanced Level - Test Automation Engineer CTAL-TAE** (251105004)
 - **ISTQB Certified Tester - Mobile Application Testing CT-MAT** (251007008)
 - **ISTQB Certified Tester - Foundation Level CTFL** (240429300)
 - **AWS Academy Cloud Architecting Certified**
