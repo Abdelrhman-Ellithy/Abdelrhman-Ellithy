@@ -66,11 +66,11 @@
 
 ### 💼 Professional Experience
 - **Senior SDET** at **Sure Global Technology**
-- **Mid-Senior SDET** at **Sure Global Technology**
 - **Senior Test Automation Engineer** at **Bevatel**
+- **Former Mid-Senior SDET** at **Sure Global Technology**
 - **Former Senior Test Automation Engineer** at **Exacall**
-- **Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
-- **Mid-Senior Test Automation Engineer** at **Bevatel**
+- **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
+- **Former Mid-Senior Test Automation Engineer** at **Bevatel**
 - **Instructor** at *Udemy*  
   - Delivered 4 courses on **ISTQB Foundation Level**, **Manual Testing**, **API Testing**, **Database, SQL** and **Test Automation**
   - [Master Ellithium: Unified Test Automation Framework Course on Udemy](https://www.udemy.com/course/master-ellithium-unified-test-automation-framework/?couponCode=ELLITHIUM-2.0.1).
