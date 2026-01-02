@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, and both Machine and Deep Learning and RPA.
+- **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, Machine and Deep Learning.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
 - **Senior SDET** at **Sure Global Technology** and partially at **Bevatel, previously at Exacall, Appy Innovate KSA, Cegedim Egypt**.
