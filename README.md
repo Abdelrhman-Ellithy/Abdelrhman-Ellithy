@@ -9,7 +9,7 @@
 - **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, Machine and Deep Learning.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
-- **Senior SDET** at Norconsult Telematics and SPPC, and Part Time at **Sure Global Technology**, previously at **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
+- **Senior SDET** at Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, and Part Time at **Sure Global Technology**, previously at **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 - **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"**
 - **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
