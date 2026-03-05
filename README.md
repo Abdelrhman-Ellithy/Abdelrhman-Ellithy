@@ -9,7 +9,7 @@
 - **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, Machine and Deep Learning.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
-- **Senior SDET** at Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, and Part Time at **Sure Global Technology projected with Saudi National Development Fund**, previously at **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
+- **Senior SDET** at Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, previously at **Sure Global Technology projected with Saudi National Development Fund**, **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 - **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"**
 - **AI Publisher Badge Recipient** at [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
@@ -62,8 +62,8 @@
 - **Senior SDET** at **Norconsult Telematics project with Saudi Principal Buyer and Aramco SA**
 - **Part Time Senior SDET** at **Sure Global Technology projected with Saudi National Development Fund**
 - **Former Senior SDET** at **Sure Global Technology projected with Saudi National Development Fund**
-- **Former Senior Test Automation Engineer** at **Bevatel**
-- **Former Senior Test Automation Engineer** at **Exacall**
+- **Former Part time Senior Test Automation Engineer** at **Bevatel**
+- **Former Part time Senior Test Automation Engineer** at **Exacall**
 - **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"** (Project-Based)
 - **Former Mid-Senior Test Automation Engineer** at **Bevatel**
 - **Instructor** at *Udemy*  
