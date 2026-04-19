@@ -9,6 +9,7 @@
 - **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, Machine and Deep Learning.
 - **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
+- **Published Single Author Paper** of "Four New Multi-Phase Hybrid Bracketing Algorithms for Numerical Root Finding" as open access in the **Journal of the Egyptian Mathematical Society** ([Paper Link:](https://joems.journals.ekb.eg/article_498939.html)).
 - **Senior SDET** at Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, previously at **Sure Global Technology projected with Saudi National Development Fund**, **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
 - **Senior Instructor**, **trained 1,090+ engineers** across **81+ countries** in ISTQB, Test Automation, API Testing, manual testing, Jenkins, and DB Testing.
 - **Former Senior Full-Stack Computer Vision and Embedded Systems Engineer** at **Oriental Weavers "El-Nasagon El-Sharkion"**
@@ -54,6 +55,7 @@
 - **Problem-Solving (Basic) | HackerRank**
 
 ### 🥇 Badges & Special Achievements
+- **Published Research Paper:** Author of "Four New Multi-Phase Hybrid Bracketing Algorithms for Numerical Root Finding" in the Journal of the Egyptian Mathematical Society. Introduced state-of-the-art hybrid methods for high-performance root-finding. ([Paper Link:](https://joems.journals.ekb.eg/article_498939.html)), ([DOI:10.21608/joems.2026.440115.1078](https://doi.org/10.21608/joems.2026.440115.1078)).
 - **AI Publisher Badge** from [Ready Tensor](https://app.readytensor.ai/users/abdelrahmanellithy) for publishing [Plant Disease Classification using CNN](https://app.readytensor.ai/publications/UIRyRuGKhA0t) ([GitHub Repo](https://github.com/Abdelrhman-Ellithy/Plant-Disease-CNN-Deep-Learning)).
 - **AWS Academy Cloud Architecting Graduate** with official badge, demonstrating proficiency in designing and deploying scalable, reliable cloud solutions on AWS [Badge](https://www.credly.com/badges/df787d09-9718-479a-ac35-b2e322f697e5/).
 ---
