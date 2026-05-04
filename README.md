@@ -24,7 +24,7 @@
 - **Bachelor of Computer Science and artificial intelligence**  
   *Benha University, Faculty of Computers and Artificial Intelligence*  
   ***Graduated as 5th of my Class*** and **ranked first in my 3rd year**  
-  **Activities and societies:** 2 Times University 200/400m Gold Medalist🥇🥇. Former 100/200m Sprinter at the University Athletics Team.
+  **Activities:** 2 Times University 200/400m Gold Medalist🥇🥇. Former 100/200m University Athletics Team Sprinter.
 ---
 ### 🛠️ Skills & Technologies
 
