@@ -7,7 +7,8 @@
 ### 👨‍💻 About Me
 
 - **Egyptian Senior Software Development Engineer in Test (SDET)** specializing in **Test Automation**, Skilled in DevOps, Embedded Systems, AI, Machine and Deep Learning.
-- **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** Test Automation Framework (Maven Central).
+- **Creator of [Ellithium](https://github.com/Abdelrhman-Ellithy/Ellithium)** a Recommended Selenium-ecosystem and unified AI-powered test automation framework on **Maven Central** for **Web, Mobile, API, SQL & NoSQL DBs**, supporting BDD/Non-BDD modes, parallel & cross-browser execution, Allure reporting, CI/CD integration (Jenkins, GitHub Actions, etc.), and cloud providers (BrowserStack, LambdaTest & Sauce Labs).  
+  Driven by a built-in **AI engine** featuring three-tier self-healing (algorithmic heuristics, then a custom fine-tuned tiny local embedded model, then an LLM fallback), a Codegen recorder, a live in-session test extension, and LLM-powered generation of TestNG/BDD scripts from manual test cases, compatible with all major LLM providers and local/custom endpoints.
 - **Contributor:** SHAFT_ENGINE, Selenium Committer.
 - **Published Single Author Paper** of "Four New Multi-Phase Hybrid Bracketing Algorithms for Numerical Root Finding" as open access in the **Journal of the Egyptian Mathematical Society** ([Paper Link:](https://joems.journals.ekb.eg/article_498939.html)). The paper's algorithms are implemented and available as **cross-language libraries** (**Java, .NET, JS/TS, Python, C/C++, Rust, PHP**, etc.) in the [HybridRoots Code Repo](https://github.com/Abdelrhman-Ellithy/hybridroots).
 - **Senior SDET** at Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, previously at **Sure Global Technology projected with Saudi National Development Fund**, **Bevatel, Exacall, Appy Innovate KSA, Cegedim Egypt**.
