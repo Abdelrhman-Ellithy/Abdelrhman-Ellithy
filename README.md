@@ -66,7 +66,7 @@
 ---
 
 ### 💼 Professional Experience
-- **Senior SDET** at **Norconsult Telematics project with Saudi Principal Buyer and Aramco SA**
+- **Senior SDET** at **Norconsult Telematics project with Saudi Principal Buyer and Aramco SA, , STC, Tahakom, Oredoo Oman**
 - **Part Time Senior SDET** at **Sure Global Technology projected with Saudi National Development Fund**
 - **Former Senior SDET** at **Sure Global Technology projected with Saudi National Development Fund**
 - **Former Part time Senior Test Automation Engineer** at **Bevatel**
