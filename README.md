@@ -39,7 +39,7 @@
 
 ### Open-Source Ecosystem Contributions
 
-- **Selenium & SHAFT_ENGINE:** Official **Selenium Committer** and active contributor to **SHAFT_ENGINE**.
+- **Selenium & SHAFT_ENGINE:** **contributor** and active contributor to **SHAFT_ENGINE**.
 
 ---
 
