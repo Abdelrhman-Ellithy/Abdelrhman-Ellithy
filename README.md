@@ -11,7 +11,7 @@
 
 ## Executive Summary
 
-- **Core Focus:** Egyptian Lead SDET and AI Test Architect based in Riyadh, Saudi Arabia, specializing in **Neuro-Symbolic Test Automation, Enterprise Quality Architecture, RAG/AI Systems, DevOps, and Embedded Systems**.
+- **Core Focus:** Egyptian Lead SDET and AI Test Architect based in Riyadh, Saudi Arabia, specializing in **Test Automation, Enterprise Quality Architecture, RAG/AI Systems, DevOps, and Embedded Systems**.
 
 - **Enterprise Scale:** Served as Principal SDET at **Norconsult Telematics**, governing automation and JMeter performance architecture across **24+ national-scale sub-projects** for **Saudi Principal Buyer (SPB) / Saudi Aramco & SEC, STC (Bonya & JISOW), Tahakom (TFM), Center 3, and Ooredoo Oman**; previously Senior SDET at **Sure Global Technology** (National Development Fund & SCISP) and **Bevatel**.
 
@@ -38,8 +38,8 @@
 - **RAG Benchmarking & Ingestion Optimization:** Built an end-to-end **Recall@K / MRR evaluation suite**, accelerated vector ingestion by **3.8x**, and resolved a critical indexing defect that previously silenced 82% of indexed context.
 
 ### Open-Source Ecosystem Contributions
-
-- **Selenium & SHAFT_ENGINE:** **contributor** and active contributor to **SHAFT_ENGINE**.
+- **Creator** of **Ellithium** unified test automation framework.
+- **Selenium & Appium & SHAFT_ENGINE:** **contributor** and core contributor at iTestFlow-Agent.
 
 ---
 
