@@ -38,7 +38,6 @@
 - **RAG Benchmarking & Ingestion Optimization:** Built an end-to-end **Recall@K / MRR evaluation suite**, accelerated vector ingestion by **3.8x**, and resolved a critical indexing defect that previously silenced 82% of indexed context.
 
 ### Open-Source Ecosystem Contributions
-- **Creator** of **Ellithium** unified test automation framework.
 - **Selenium & Appium & SHAFT_ENGINE:** **contributor** and core contributor at iTestFlow-Agent.
 
 ---
